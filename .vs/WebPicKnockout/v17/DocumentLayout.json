@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|e:\\downloadshd\\webpicknockout\\webpicknockout\\webpicknockout\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\webpicknockout\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\webpicknockout\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\webpicknockout\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\views\\pessoa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\webpicknockout\\views\\pessoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\views\\pessoa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\webpicknockout\\scripts\\pessoaknockout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\scripts\\pessoaknockout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\webpicknockout\\views\\pessoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F3FDC65-7B69-46B3-B881-FB9037BF8963}|WebPicKnockout\\WebPicKnockout.csproj|solutionrelative:webpicknockout\\views\\pessoa\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 472,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "WebPicKnockout\\Controllers\\PessoaController.cs",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "WebPicKnockout\\Controllers\\PessoaController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAUwFcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T00:02:46.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaBLL.cs",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\BLL\\PessoaBLL.cs",
+              "RelativeDocumentMoniker": "WebPicKnockout\\BLL\\PessoaBLL.cs",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\BLL\\PessoaBLL.cs",
+              "RelativeToolTip": "WebPicKnockout\\BLL\\PessoaBLL.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAAwJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:40:52.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoaKnockout.js",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Scripts\\PessoaKnockout.js",
+              "RelativeDocumentMoniker": "WebPicKnockout\\Scripts\\PessoaKnockout.js",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Scripts\\PessoaKnockout.js",
+              "RelativeToolTip": "WebPicKnockout\\Scripts\\PessoaKnockout.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-07T22:22:03.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPicKnockout\\Views\\Pessoa\\Index.cshtml",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Index.cshtml",
+              "RelativeToolTip": "WebPicKnockout\\Views\\Pessoa\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T00:09:04.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebPicKnockout\\Views\\Pessoa\\Create.cshtml",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Create.cshtml",
+              "RelativeToolTip": "WebPicKnockout\\Views\\Pessoa\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwBsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T00:48:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebPicKnockout\\Views\\Pessoa\\Edit.cshtml",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Edit.cshtml",
+              "RelativeToolTip": "WebPicKnockout\\Views\\Pessoa\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T23:11:53.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebPicKnockout\\Views\\Pessoa\\Delete.cshtml",
+              "ToolTip": "E:\\DownloadsHD\\WebPicKnockout\\WebPicKnockout\\WebPicKnockout\\Views\\Pessoa\\Delete.cshtml",
+              "RelativeToolTip": "WebPicKnockout\\Views\\Pessoa\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T14:17:18.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

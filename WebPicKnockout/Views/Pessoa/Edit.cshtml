@@ -1,0 +1,116 @@
+﻿@model WebPicKnockout.Models.Pessoa
+
+@section scripts
+{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
+    <script src="~/Scripts/knockout-3.5.0.js"></script>
+    <script>
+        $(document).ready(function () {
+            // Adicionando a máscara para o campo de CPF
+            $('#cpf').mask('000.000.000-00', { reverse: true }, { placeholder: "Ex.: 999.999.999-99" });
+            $('#rg').mask('00.000.000-0', { reverse: true }, { placeholder: "Ex.: 99.999.999-9" });
+        });
+    </script>
+    <script>
+            var viewModel = {                   //Pegando dados direto da model, tentei fazer tudo direto no arquivo JS mas não consegui
+            pessoa: ko.observable({
+            Codigo: ko.observable(@Model.Codigo),
+            Nome: ko.observable('@Model.Nome'),
+            Sobrenome: ko.observable('@Model.Sobrenome'),
+            DataNasc: ko.observable('@Model.DataNasc.ToString("yyyy-MM-dd")'), // Formato ISO 8601 para input type="date"
+            EstadoCivil: ko.observable('@Model.EstadoCivil'),
+            CPF: ko.observable('@Model.CPF'),
+            RG: ko.observable('@Model.RG')
+            }),
+
+            salvar: function () {
+                var data = {
+                    codigo : viewModel.pessoa().Codigo,
+                    nome: viewModel.pessoa().Nome(),
+                    sobrenome: viewModel.pessoa().Sobrenome(),
+                    dataNasc: viewModel.pessoa().DataNasc(),
+                    estadoCivil: viewModel.pessoa().EstadoCivil(),
+                    cpf: viewModel.pessoa().CPF(),
+                    rg: viewModel.pessoa().RG()
+                };
+
+                $.ajax({
+                    url: '/Pessoa/Edit', 
+                    type: 'POST',
+                    data: data,
+                    success: function (response) {
+                        if (response.success) {
+                            alert('Pessoa atualizada com sucesso!');
+                            // Redirecionar para a página de detalhes da pessoa
+                            window.location.href = '/Pessoa/Index';
+                        } else {
+                            alert('Erro ao atualizar pessoa: ' + response.errors);
+                        }
+                    },
+                    error: function (xhr, status, error) {
+                        console.error("Erro ao atualizar pessoa:", error);
+                    }
+                });
+
+                return false;
+            },
+
+            cancelar: function () {
+                // Redirecionar de volta para a página de listagem de pessoas
+                window.location.href = '/Pessoa/Index';
+            }
+        };
+
+        ko.applyBindings(viewModel);
+
+    </script>
+
+}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editar Pessoa</title>
+</head>
+<body>
+    <h2>Editar Pessoa</h2>
+    <form data-bind="submit: salvar">
+        <input type="hidden" data-bind="value: pessoa().Codigo" />
+        <div class="mb-3">
+            <label for="nome" class="form-label">Nome</label>
+            <input id="nome" required="required" type="text" class="form-control" placeholder="Ex.: Pedro" data-bind="value: pessoa().Nome">
+        </div>
+        <div class="mb-3">
+            <label for="sobrenome" class="form-label">Sobrenome</label>
+            <input id="sobrenome" required="required" type="text" class="form-control" placeholder="Ex.: Martins" data-bind="value: pessoa().Sobrenome">
+        </div>
+        <div class="mb-3">
+            <label for="data" class="form-label">Data de Nascimento</label>
+            <input id="dataNasc" required="required" type="date" class="form-control" data-bind="value: pessoa().DataNasc">
+        </div>
+        <div class="mb-3">
+            <label for="estadoC" class="form-label">Estado Civil</label>
+            <select id="estadoC" class="form-select" required="required" data-bind="value: pessoa().EstadoCivil">
+                <option selected>Selecione</option>
+                <option value="Solteiro">Solteiro(a)</option>
+                <option value="Casado">Casado(a)</option>
+                <option value="Divorciado">Divorciado(a)</option>
+                <option value="Viuvo">Viúvo(a)</option>
+            </select>
+        </div>
+        <div class="mb-3">
+            <label for="cpf" class="form-label">CPF</label>
+            <input id="cpf" required="required" type="text" class="form-control" data-bind="value: pessoa().CPF" maxlength="14">
+        </div>
+        <div class="mb-3">
+            <label for="rg" class="form-label">RG</label>
+            <input id="rg" required="required" type="text" class="form-control" data-bind="value: pessoa().RG" maxlength="12">
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+        <button type="button" class="btn btn-danger" data-bind="click: cancelar">Cancelar</button>
+    </form>
+</body>
+</html>

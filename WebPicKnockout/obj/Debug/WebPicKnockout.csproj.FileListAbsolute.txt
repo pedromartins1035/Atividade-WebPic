@@ -1,0 +1,344 @@
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll.config
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.pdb
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe.config
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.rsp
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe.config
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.rsp
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.AppContext.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Collections.Immutable.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Console.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Globalization.Calendars.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Http.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Sockets.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Reflection.Metadata.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.ValueTuple.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe.config
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.rsp
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe.config
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.Web.Infrastructure.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebGrease.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.pdb
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Helpers.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Mvc.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Optimization.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Razor.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.AssemblyReference.cache
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.CoreCompileInputs.cache
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKn.CD2C3CD4.Up2Date
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.dll
+E:\DownloadsHD\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.pdb
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.pdb
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.rsp
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.rsp
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.AppContext.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Collections.Immutable.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Console.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Globalization.Calendars.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Http.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Sockets.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Reflection.Metadata.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.ValueTuple.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.rsp
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.Web.Infrastructure.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebGrease.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.pdb
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Razor.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.AssemblyReference.cache
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.CoreCompileInputs.cache
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.CopyComplete
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.pdb
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll.config
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.pdb
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe.config
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.rsp
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe.config
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.rsp
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.AppContext.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Collections.Immutable.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Console.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Globalization.Calendars.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Http.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Sockets.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Reflection.Metadata.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.ValueTuple.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe.config
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.rsp
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe.config
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.Web.Infrastructure.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebGrease.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.pdb
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Helpers.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Mvc.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Optimization.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Razor.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.AssemblyReference.cache
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.CoreCompileInputs.cache
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKn.CD2C3CD4.Up2Date
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.dll
+E:\DownloadsHD\WebPicKnockout (1)\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.pdb
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebPicKnockout.pdb
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csc.rsp
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\csi.rsp
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.AppContext.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Collections.Immutable.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Console.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Globalization.Calendars.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Http.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Net.Sockets.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Reflection.Metadata.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.ValueTuple.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\vbc.rsp
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\roslyn\VBCSCompiler.exe.config
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.Web.Infrastructure.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\WebGrease.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Helpers.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Mvc.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Optimization.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.Razor.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Deployment.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\System.Web.WebPages.Razor.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Newtonsoft.Json.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Antlr3.Runtime.pdb
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Helpers.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Mvc.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Optimization.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.Razor.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.AssemblyReference.cache
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.CoreCompileInputs.cache
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.csproj.CopyComplete
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.dll
+E:\Download\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\WebPicKnockout\obj\Debug\WebPicKnockout.pdb

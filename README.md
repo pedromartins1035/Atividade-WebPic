@@ -1,6 +1,6 @@
 # Atividade-WebPic
  
-Cadastro de Pessoas feito em ASP.NET MVC e KnockoutJS, proposto pela empresa WebPic
+Cadastro de Pessoas feito em ASP.NET MVC, KnockoutJS e SQL Server, proposto pela empresa WebPic
 
 # O que precisa para rodar o projeto?
 
